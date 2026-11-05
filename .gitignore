@@ -9,3 +9,6 @@ node_modules/
 
 # Sensitive HTTrack session data
 cookies.txt
+
+# Source asset kept at root (the in-site copy under ritimus.co.uk/ is the one used)
+/teacherapproved.png
