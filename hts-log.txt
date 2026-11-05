@@ -1,0 +1,100 @@
+HTTrack3.51-0 launched on Thu, 05 Nov 2026 15:57:30 at https://ritimus.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "tr, en, *" https://ritimus.co.uk/ -O1 "C:\Web Sitelerim\ritimus" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:31	Info: 	Note: due to https://ritimus.co.uk remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:58:10	Error: 	"Not Allowed" (405) at link https://ritimus.co.uk/xmlrpc.php (from https://ritimus.co.uk/)
+15:58:43	Warning: 	Link https://ritimus.co.uk/wp-admin/admin-ajax.php not scanned (follow robots meta tag)
+15:59:58	Error: 	"Not Found" (404) at link https://ritimus.co.uk/kindergarten-two/ (from https://ritimus.co.uk/)
+15:59:58	Info: 	Retry after error -4 (No data (connection closed)) at link https://ritimus.co.uk/wp-content/uploads/2022/06/Layer-2-1320x433.png (from https://ritimus.co.uk/)
+16:00:10	Info: 	Retry after error -4 (No data (connection closed)) at link https://ritimus.co.uk/wp-content/plugins/js_composer/assets/images/toggle_open.png (from https://ritimus.co.uk/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.7.0)
+16:00:10	Error: 	"Not Found" (404) at link https://secure.gravatar.com/images/grav-share-sprite.png (from https://ritimus.co.uk/wp-content/plugins/jetpack/css/jetpack.css?ver=10.9.3)
+16:00:10	Error: 	"Not Found" (404) at link https://secure.gravatar.com/images/grav-share-sprite-2x.png (from https://ritimus.co.uk/wp-content/plugins/jetpack/css/jetpack.css?ver=10.9.3)
+16:00:10	Warning: 	Moved Permanently for https://ritimus.co.uk/dist/
+16:00:10	Warning: 	File has moved from https://ritimus.co.uk/dist/ to https://ritimus.co.uk/distance-sales-agreement/
+16:00:10	Error: 	"Not Found" (404) at link https://ritimus.co.uk/wp-content/themes/smarty/assets/js/vendor/owl-carousel/owl.video.play.png (from https://ritimus.co.uk/wp-content/themes/smarty/assets/js/vendor/owl-carousel/owl.carousel.css?ver=3.4.8)
+16:00:10	Warning: 	File not parsed, looks like binary: https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/css/openhand.cur
+16:00:10	Warning: 	File not parsed, looks like binary: https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+16:00:10	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=21
+16:00:10	Warning: 	File has moved from https://ritimus.co.uk/?p=21 to https://ritimus.co.uk/about/
+16:00:10	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=533
+16:00:10	Warning: 	File has moved from https://ritimus.co.uk/?p=533 to https://ritimus.co.uk/akademik/
+16:00:38	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=1370
+16:00:38	Warning: 	File has moved from https://ritimus.co.uk/?p=1370 to https://ritimus.co.uk/gallery/
+16:00:39	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=2441
+16:00:39	Warning: 	File has moved from https://ritimus.co.uk/?p=2441 to https://ritimus.co.uk/satin-alma/
+16:00:40	Warning: 	Moved Temporarily for https://ritimus.co.uk/download/
+16:00:40	Warning: 	File has moved from https://ritimus.co.uk/download/ to https://www.ritimus.co.uk/
+16:00:40	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5272
+16:00:40	Warning: 	File has moved from https://ritimus.co.uk/?p=5272 to https://ritimus.co.uk/oyunlar/
+16:00:40	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5291
+16:00:40	Warning: 	File has moved from https://ritimus.co.uk/?p=5291 to https://ritimus.co.uk/kurumsal/
+16:00:40	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=23
+16:00:40	Warning: 	File has moved from https://ritimus.co.uk/?p=23 to https://ritimus.co.uk/contacts/
+16:00:40	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5466
+16:00:40	Warning: 	File has moved from https://ritimus.co.uk/?p=5466 to https://ritimus.co.uk/2023/04/25/cocugumuzun-akilli-saati-ne-ise-yarar/
+16:00:45	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5462
+16:00:45	Warning: 	File has moved from https://ritimus.co.uk/?p=5462 to https://ritimus.co.uk/2023/04/25/cocugum-icin-kodlama-egitimi/
+16:00:45	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5459
+16:00:45	Warning: 	File has moved from https://ritimus.co.uk/?p=5459 to https://ritimus.co.uk/2023/04/25/cocuklarimizin-iletisim-kurma-sekilleri/
+16:00:45	Error: 	"Not Found" (404) at link https://ritimus.co.uk/dummy.png (from https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.5)
+16:00:45	Error: 	"Not Found" (404) at link https://ritimus.co.uk/images/transparent.png (from https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.5)
+16:00:45	Error: 	"Not Found" (404) at link https://ritimus.co.uk/assets/transparent.png (from https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.5)
+16:00:45	Warning: 	Moved Permanently for https://ritimus.co.uk/origin=https://
+16:00:45	Warning: 	Redirect to a same-file alias, fetching real content: https://ritimus.co.uk/origin=https:// -> https://ritimus.co.uk/origin=https:/
+16:00:45	Warning: 	Warning moved treated for https://ritimus.co.uk/origin=https:// (real one is https://ritimus.co.uk/origin=https:/)
+16:00:45	Error: 	"Not Found" (404) at link https://ritimus.co.uk/Popover requires tooltip.js (from https://ritimus.co.uk/wp-content/themes/smarty/assets/js/vendor/bootstrap.min.js?ver=3.4.8)
+16:00:46	Error: 	"Not Found" (404) at link https://ritimus.co.uk/g.gif (from https://stats.wp.com/e-202645.js)
+16:00:46	Error: 	"Not Found" (404) at link https://ritimus.co.uk/c.gif (from https://stats.wp.com/e-202645.js)
+16:00:49	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5456
+16:00:49	Warning: 	File has moved from https://ritimus.co.uk/?p=5456 to https://ritimus.co.uk/2023/04/25/dijital-cagda-anne-ve-baba-olmak/
+16:00:49	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5453
+16:00:49	Warning: 	File has moved from https://ritimus.co.uk/?p=5453 to https://ritimus.co.uk/2023/04/25/cocugunuzla-iletisiminizi-gelistirecek-4-madde/
+16:00:50	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5450
+16:00:50	Warning: 	File has moved from https://ritimus.co.uk/?p=5450 to https://ritimus.co.uk/2023/04/25/dijital-dile-ne-kadar-hakim-bir-ebeveynsiniz/
+16:00:50	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5447
+16:00:50	Warning: 	File has moved from https://ritimus.co.uk/?p=5447 to https://ritimus.co.uk/2023/04/25/bilisim-cagi-ailene-vakit-ayirmana-engel-mi/
+16:00:50	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5444
+16:00:50	Warning: 	File has moved from https://ritimus.co.uk/?p=5444 to https://ritimus.co.uk/2023/04/25/artilariyla-uzaktan-egitim/
+16:00:50	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5441
+16:00:50	Warning: 	File has moved from https://ritimus.co.uk/?p=5441 to https://ritimus.co.uk/2023/04/25/dort-adimda-cocuklarimiza-sorumluluk-kazandirmak/
+16:00:50	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5438
+16:00:50	Warning: 	File has moved from https://ritimus.co.uk/?p=5438 to https://ritimus.co.uk/2023/04/25/cocuklarimizin-ekranla-iliskisi-nasil-olmalidir/
+16:01:16	Error: 	"Not Found" (404) at link https://ritimus.co.uk/2023/04/25/cocugumuzun-akilli-saati-ne-ise-yarar/ERROR (from https://ws.sharethis.com/button/buttons.js)
+16:01:16	Info: 	Retry after error -5 (Unable to get server's address: Bilinen böyle bir ana bilgisayar yok. ) at link https://www.medtargetsystem.com/javascript/beacon.js? (from https://ws.sharethis.com/button/buttons.js)
+16:01:16	Error: 	"Not Found" (404) at link https://platform-api.sharethis.com/panorama.js (from https://ws.sharethis.com/button/buttons.js)
+16:01:16	Error: 	"Not Found" (404) at link https://ritimus.co.uk/2023/04/25/cocugumuzun-akilli-saati-ne-ise-yarar/buttons.js (from https://ws.sharethis.com/button/buttons.js)
+16:01:16	Error: 	"Not Found" (404) at link https://ritimus.co.uk/2023/04/25/cocugumuzun-akilli-saati-ne-ise-yarar/st_insights.js (from https://ws.sharethis.com/button/buttons.js)
+16:01:16	Error: 	"Not Found" (404) at link https://ritimus.co.uk/origin=https:/ (from https://ritimus.co.uk/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.5.5)
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5415
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5415 to https://ritimus.co.uk/distance-sales-agreement/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5435
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5435 to https://ritimus.co.uk/2023/04/25/dijital-oyunlar-cocugun-gelisimine-ne-saglar/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5432
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5432 to https://ritimus.co.uk/2023/04/25/dijital-zeka-egitimi-nedir/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5429
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5429 to https://ritimus.co.uk/2023/04/25/siber-zorbalikla-nasil-mucadele-ederiz/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5182
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5182 to https://ritimus.co.uk/2022/06/08/cocuklarda-dikkat-daginikligi/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5180
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5180 to https://ritimus.co.uk/2022/06/08/cocuklar-ve-oyun/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5178
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5178 to https://ritimus.co.uk/2022/06/08/zeka-gelistirici-oyunlar/
+16:01:16	Warning: 	Moved Permanently for https://ritimus.co.uk/?p=5176
+16:01:16	Warning: 	File has moved from https://ritimus.co.uk/?p=5176 to https://ritimus.co.uk/2022/06/08/oyun-atolyesi/
+16:01:49	Info: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://www.medtargetsystem.com/javascript/beacon.js? (from https://ws.sharethis.com/button/buttons.js)
+16:01:51	Info: 	Note: due to https://ws.sharethis.com remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+16:01:51	Error: 	"Not Found" (404) at link https://ws.sharethis.com/button/ERROR (from https://ws.sharethis.com/mobile/js/mobile.566f13d70dd23ba2235da8c858cab592.js)
+16:01:51	Error: 	"Not Found" (404) at link https://ws.sharethis.com/button/css/fastShare-secure.css (from https://ws.sharethis.com/button/fastShare.js)
+16:01:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://www.medtargetsystem.com/javascript/beacon.js? (from https://ws.sharethis.com/button/buttons.js)
+16:01:55	Error: 	"Forbidden" (403) at link https://www.google.com/analytics/web/inpage/pub/inpage.js? (from https://ssl.google-analytics.com/ga.js)
+16:01:55	Error: 	"Not Found" (404) at link https://ws.sharethis.com/__utm.gif (from https://ssl.google-analytics.com/ga.js)
+
+HTTrack Website Copier/3.51-0 mirror complete in 4 minutes 25 seconds : 776 links scanned, 721 files written (40374555 bytes overall) [30785500 bytes received at 116171 bytes/sec], 14703782 bytes transferred using HTTP compression in 307 files, ratio 26%, 16.0 requests per connection
+(21 errors, 60 warnings, 6 messages)
+(1 links failed to transfer, so the mirror is incomplete)
+(Some links above the start directory were not mirrored. Pass -B (--can-go-up-and-down) to mirror them.)
